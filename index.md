@@ -1,40 +1,15 @@
 ## Welcome to MY TTS DEMO Pages
 
-You can use the [editor on GitHub](https://github.com/HaiFengZeng/mytts-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Theses demos includs:
+ - real humna qulaity mel spectrogram,convert rnn generated mel-spectrogram to real data distribution.[denoise-demo](denoise-demo.html)
+ - use very limited 5 samples in voice cloning.[stories](DEMO-5.html)
+ - disentangle style and timbre, different style and timbre combination[style-timbre-en](ENStory.html)|[style-timbre-cn](StyleTimbre.html)
+ - A demo to manipulate pitch and duration modification system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 <video id="video" controls="" preload="none" poster="封面" width="832px">
       <source id="mp4" src="Pitch-Duration-Modify.mp4" type="video/mp4">
 </videos>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaiFengZeng/mytts-demo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

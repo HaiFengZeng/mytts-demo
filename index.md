@@ -7,6 +7,7 @@ Theses demos includes:
    - all speakers use the same style and some of them use novel or story teller.
  - use very limited 5 samples in voice cloning compare.[5samples-demo-new](pps5.html),we add some samples cloned by TWO samples(10 sec),see sys2_2.
  - disentangle style and timbre, different style and timbre combination.[style-timbre-en](ENStory.html) and [style-timbre-cn](DEMO-StyleTimbre.html)
+ - Neural Audio Editor,we can insert or modify the mel-spectrogram directly in a speaker-invariant way and also keep nautralness.[neural-audio-editor](Mel Modify.html)
  - A demo to manipulate pitch and duration modification system. see the video below.
 
 
